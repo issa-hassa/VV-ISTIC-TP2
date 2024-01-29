@@ -16,6 +16,7 @@ We recommend you use the following projects as input for the exercises:
 - [Apache Commons Lang](https://github.com/apache/commons-lang)
 
 Feel free to use any other project you want.
+/Users/ahmed-korom/Downloads/commons-collections-master
 
 ## Exercises
 

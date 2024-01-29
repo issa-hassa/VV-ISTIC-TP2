@@ -23,3 +23,10 @@ Use your rule with different projects and describe you findings below. See the [
 
 ## Answer
 
+#### le xpath
+````xpath
+//IfStatement//IfStatement//IfStatement
+````
+
+#### Résultat dans le designer :
+![](../img.png)
